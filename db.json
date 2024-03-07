@@ -8,6 +8,13 @@
       "isActive": true
     },
     {
+      "id": "1",
+      "name": "Vedant Patel",
+      "email": "vedantpatel@gmail.com",
+      "phone": "9876543210",
+      "isActive": true
+    },
+    {
       "id": "2",
       "name": "Bhagyesh Patel",
       "email": "bhagyeshpatel@gmail.com",
